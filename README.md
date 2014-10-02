@@ -1,0 +1,1 @@
+POC for support-kb asset storage
